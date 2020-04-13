@@ -1,5 +1,0 @@
-192.168.85.1     gateway.local
-192.168.85.10    nas.local
-192.168.85.150   homeassistant.local
-192.168.85.100   pihole1.local
-192.168.85.200   pihole2.local
